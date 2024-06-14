@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **REACT**
 
-- 👨‍💻 All of my projects are available at [https://soumyadarshanpadhy.me](https://soumyadarshanpadhy.me)
+- 👨‍💻 All of my projects are available at [https://soumyadarshanpadhy.com](https://soumyadarshanpadhy.com)
 
 - 💬 Ask me about **HTML, CSS, JS, JQUERY, PHP, NODE JS, EXPRESS, REACT, MONGO DB, MY SQL**
 
